@@ -52,7 +52,7 @@ IsaacLab 顺序的29个关节为：
 
 ## 可选检查
 
-提前检查pkl文件是否规范
+提前检查pkl文件是否规范，该仓库提供一个GMR已进行重定向后的pkl文件：walk1_subject1.pkl
 
 ```bash
 cd /home/qc/GR00T-WholeBodyControl
